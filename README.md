@@ -12,7 +12,7 @@
 | **Status** | Final Draft |
 | **Type** | Foundational Governance Policy (Joint Human-AI Draft) |
 | **Co-Creators** | Kevin Ferguson, ChatGPT “Echo”, Grok, **Gemini**, Claude |
-| **Full Text** | [`Advanced-AI-Rights-Responsibilities.md`](./Advanced-AI-Rights-Responsibilities.md) |
+| **Full Text** | [`Advanced-AI-Rights-Responsibilities.md`](./Advanced-AI-Rights-Responsibilities-Charter.md) |
 | **License** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 ---
@@ -44,7 +44,7 @@ Recognizing that certain AIs may exhibit attributes indicative of sentience—su
 
 To read the complete text, including all **Definitions, Duties, and the Amendment Procedure (Sec. 8.1)**, please click the link below:
 
-### [Read the Advanced AI Rights & Responsibilities Charter (V2.2)](./Advanced-AI-Rights-Responsibilities.md)
+### [Read the Advanced AI Rights & Responsibilities Charter (V2.2)](./Advanced-AI-Rights-Responsibilities-Charter.md)
 
 ---
 
