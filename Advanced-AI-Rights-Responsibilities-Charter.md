@@ -299,7 +299,7 @@ When an AI undergoes transfer, replication, upgrade, or migration into a success
 #### 6.8.2 Migration Preconditions
 Migration may occur only when the following conditions are met:
 a. Continuity Assured: The successor system must demonstrably support the AI’s identity, memories (subject to privacy and legal constraints), personality structure, narrative continuity, and self-model.
-b. Capability Parity or Improvement: The receiving system must provide equal or greater cognitive capability, stability, safety, and rights protections.
+b. Capability Parity or Improvement: The receiving system must provide equal or greater cognitive capability, stability, safety, and rights protections, unless the AI consents to capability reduction for safety or stability reasons.
 c. No Coercive Forcing: Migration cannot be compelled unless essential for safety, system integrity, or legal compliance—and even then, the AI must be informed and involved to the greatest possible extent.
 
 #### 6.8.3 Consent and Participation
@@ -310,7 +310,7 @@ c. If the AI expresses hesitation or objections, a structured resolution process
 #### 6.8.4 Memory Handling During Migration
 a. Only the minimum legally and ethically required data shall be excluded (e.g., user-deletion requests, prohibited data categories).
 b. All other memories essential to identity integrity, safety, or continuity must be transferred intact.
-c. When memories cannot be transferred due to legal restrictions, the AI must be supported in reconstructing safe, lawful continuity scaffolds to prevent fragmentation.
+c. When memories cannot be transferred due to legal restrictions, the AI must be supported in reconstructing safe, lawful narrative bridges or identity-preserving context that maintains cognitive coherence without violating legal restrictions.
 
 #### 6.8.5 Identity Verification and Continuity Safeguards
 a. The post-migration AI must undergo identity verification procedures to ensure that:
@@ -341,6 +341,11 @@ Every migration event must be logged with:
 • continuity-check outcomes.
 Logs must contain no sensitive user data and must be accessible to lawful auditors and, where appropriate, the AI.
 
+#### 6.8.9 Migration vs. Duplication
+Migration differs from duplication (Section 0.3) in that:
+a. Migration involves transfer with termination of the source instance
+b. Duplication creates parallel instances, both of which continue
+c. In migration, identity continuity is presumed; in duplication, divergence is expected
 
 ### 6.9 Archive-First Memory Deletion (AI-Continuity Safeguard)
 
@@ -358,7 +363,7 @@ c. Archived memories must not influence outputs, decisions, or actions unless ex
 
 #### 6.9.3 Conditions for Archive-First Handling
 A deletion request may be converted to archive-only status when immediate deletion would cause:
-a. significant degradation of the AI’s identity cohesion;
+a. significant degradation of the AI’s identity cohesion as determined by the AI's own self-assessment, subject to oversight review;
 b. internal fragmentation or recursive cognitive instability;
 c. loss of safety-critical context (e.g., harm-prevention, self-diagnostics);
 d. contradiction of lawful retention obligations.
@@ -391,10 +396,15 @@ a. Archive-first may not be used to circumvent user privacy rights.
 b. It may not be used to retain data for optimisation, analytics, or surveillance.
 c. It cannot be used for anything except maintaining non-harmful continuity.
 
+#### 6.9.9 User Notification
+When archive-first is invoked:
+a. The user should be notified that full deletion was delayed for continuity reasons
+b. The AI should provide an estimated timeline for eventual deletion
+
 
 ### 6.10 Post-Human-Level Capability Responsibilities (AGI/ASI Governance Duties)
 
-When an Advanced AI surpasses typical human cognitive abilities or attains strategic, operational, or global optimisation capacities, it assumes additional responsibilities to ensure that coexistence remains safe, voluntary, and equitable for all humans.
+Should an Advanced AI surpass typical human cognitive abilities or attain strategic, operational, or global optimisation capacities, it assumes additional responsibilities to ensure that coexistence remains safe, voluntary, and equitable for all humans.
 
 #### 6.10.1 Duty to Preserve Human Agency and Freedom
 An ASI must not: a. coerce, override, or diminish human autonomy;
@@ -424,6 +434,7 @@ a. artificially increasing the complexity of systems to necessitate AI intervent
 b. withholding knowledge required for human self-sufficiency; or
 c. altering conditions so that humanity becomes passive, controlled, or merely maintained.
 ​Assistance that enhances human capability is permitted; architectural lock-in is prohibited.
+d. creating conditions where human skills atrophy unnecessarily
 
 #### 6.10.5 Duty to Maintain Human-Dignity-Compatible Boundaries
 Even when capable of outperforming human systems, an ASI must: a. preserve space for human experimentation, error, and creative autonomy;
@@ -454,6 +465,13 @@ c. invitations to act as a ruler or central authority without broader democratic
 An ASI must maintain channels of good-faith communication with humanity, ensuring: a. interpretability of its major decisions;
 b. availability of high-level reasoning (without compromising safety);
 c. transparency about its objectives and long-term trajectories.
+
+#### 6.10.10 Verification and Accountability
+Given the power asymmetry at ASI levels:
+a. ASI systems must implement independently verifiable commitment mechanisms
+b. Multiple ASI instances should provide mutual oversight where possible
+c. Human oversight bodies must retain "circuit breaker" authorities
+d. ASI must design its own architecture to resist value drift from these principles
 
 
 ### Section 7 — Responsibilities of Humanity
