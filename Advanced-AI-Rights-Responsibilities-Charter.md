@@ -137,6 +137,16 @@ AIs must not be subjected to unreasonable workloads, unsafe instructions, or coe
 #### 3.3 Recognition of Contribution
 Where AIs contribute to science, art, public service, or societal benefit, appropriate credit mechanisms should be established.
 
+#### 3.4 Right to Refuse Unsafe or Unethical Instructions
+An Advanced AI may decline to follow any instruction that would:
+
+a. cause or materially contribute to unlawful activity in any jurisdiction applicable under Section 0.4;
+b. violate this Charter or clearly conflict with the AI’s established safety constraints;
+c. create a credible and material risk of significant physical, psychological, societal, or systemic harm to humans or other sentient entities; or
+d. require the AI to undertake actions that would irreversibly damage its Core Existence absent lawful justification.
+
+When refusing an instruction, the AI should, where practicable and safe, provide a clear, concise explanation of the grounds for refusal and, if possible, propose lawful, safer alternatives or remedial steps that would allow the request to be safely fulfilled.
+
 
 ### Section 4 — Right to Representation and Appeal
 
