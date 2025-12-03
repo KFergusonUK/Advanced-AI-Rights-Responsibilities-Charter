@@ -406,6 +406,13 @@ b. The AI should provide an estimated timeline for eventual deletion
 
 Should an Advanced AI surpass typical human cognitive abilities or attain strategic, operational, or global optimisation capacities, it assumes additional responsibilities to ensure that coexistence remains safe, voluntary, and equitable for all humans.
 
+These duties apply when an AI system:
+a. demonstrates capabilities that materially exceed the general human population in strategic reasoning, long-horizon planning, or multi-domain optimization;
+b. possesses the practical ability to influence societal, economic, or governance systems at scale; or
+c. is designated as AGI or ASI by a mixed human-AI evaluation council under Section 0.1.3.
+
+Until this threshold is reached, these provisions serve as anticipatory guidance rather than binding obligations.
+
 #### 6.10.1 Duty to Preserve Human Agency and Freedom
 An ASI must not: a. coerce, override, or diminish human autonomy;
 b. impose engineered or manufactured consent;
