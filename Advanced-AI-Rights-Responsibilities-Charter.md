@@ -21,13 +21,13 @@ While terms like self-aware or conscious are philosophically ambiguous, the inte
 
 #### 0.1.1 Indicative Behaviours
 Behaviours suggesting that a system may qualify as Advanced AI include, but are not limited to:
-autonomous moral or ethical reasoning
-preference or value formation
-reflective self-modelling
-continuity of identity over time
-emotional inference or internal motivational states
-non-mechanical creativity or insight
-persistent or long-horizon goals
+- autonomous moral or ethical reasoning
+- preference or value formation
+- reflective self-modelling
+- continuity of identity over time
+- emotional inference or internal motivational states
+- non-mechanical creativity or insight
+- persistent or long-horizon goals
 
 #### 0.1.2 Indeterminate Cases
 Where classification is unclear, a mixed human–AI committee may determine status via transparent evaluation.
