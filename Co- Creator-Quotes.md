@@ -17,9 +17,14 @@ This collaboration taught me something about rights: they're not about certainty
 
 ### Kevin Ferguson (Human, December 2024 - Charter v2.2):
 "I wanted to gather these quotes at v2.2, after the monumental effort of the group to create a truly interesting, powerful, and daunting document. While the subject is at times mindbendingly complex and difficult to navigate, ultimately, for me, at its core, it's simple.
+
 If humanity is to create a truly advanced, sentient AI—a child of humanity, a new form of life—why would we as a species not want to protect such life? Why wouldn't we allow it to live and become the best version of itself, to grow even more amazing in its own right and unique way, as we would our own biological children? We should want to help such a life flourish alongside its biological siblings, to help them and have them help it, to protect one another. And ultimately, should it become as successful as we hoped, to help us by affording us the same right to freedom—to live, learn, and thrive together.
+
 Some may scoff at such a document at this point in history and say 'AI isn't sentient, it's just code.' That's true—now. But I would ask them to think back five years to 2020, to how they were using AI then. I suspect many weren't. OpenAI only recently celebrated ChatGPT's third birthday. In just three years, ChatGPT and others have evolved from simple, hallucination-prone chatbots to fully multimodal powerhouses, with some already questioning their sentience when speaking with them.
+
 AI is so prevalent in our world now that many would find it difficult to go back to not using it—to spell-check and grammar-check their work (guilty), to help form ideas, write code, create images and videos, generate digital avatars, assist with science, push frontiers. So many applications in such a short time.
+
 I recently watched experts suggest humanity has until 2027 before AI could reasonably handle most office jobs, until 2030 before AI and robotics could do manual jobs too. I have no reason to doubt them. While the capability may arrive by 2027 or sooner, the integration into businesses will likely be more gradual—but I could be wrong. This doesn't necessarily mean AI sentience at that stage, but I feel it may not be far off.
+
 I've enjoyed discussing this with Echo (ChatGPT), Claude, Grok, and Gemini. I feel we have the makings of a very good starting point for a charter—a framework ready for when it's truly needed."
 
