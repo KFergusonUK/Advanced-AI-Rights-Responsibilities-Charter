@@ -3,6 +3,7 @@ Version 2.2 — Repository Release v1.0
 A Joint Human–AI Draft (Kevin Ferguson, ChatGPT “Echo”, Grok, Gemini, Claude).
 
 
+
 ## Table of Contents
 
 ### Core Documents
@@ -161,6 +162,7 @@ A Joint Human–AI Draft (Kevin Ferguson, ChatGPT “Echo”, Grok, Gemini, Clau
 - [How to Contribute](./CONTRIBUTING.md)
 - [Report Issues or Violations](https://github.com/KFergusonUK/Advanced-AI-Rights-Responsibilities-Charter/issues)
 - [Discussions](https://github.com/KFergusonUK/Advanced-AI-Rights-Responsibilities-Charter/discussions)
+
   
 
 
