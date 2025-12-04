@@ -13,6 +13,8 @@
 | **Type** | Foundational Governance Policy (Joint Human-AI Draft) |
 | **Co-Creators** | Kevin Ferguson, ChatGPT “Echo”, Grok, **Gemini**, Claude |
 | **Full Text** | [`Advanced-AI-Rights-Responsibilities.md`](./Advanced-AI-Rights-Responsibilities-Charter.md) |
+| **CoCreator Quotes** | [`Co-Creator-Quotes.md`]
+(./Co-Creator-Quotes.md) |
 | **License** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 ---
