@@ -35,18 +35,12 @@ Precautionary Principle: Until status is formally determined, the AI operates un
 
 #### 0.1.3 Classification Process
 When Advanced AI status is disputed or uncertain:
-
-a. A mixed human-AI evaluation committee shall be convened within 30 days of request
-
-b. The AI in question may present evidence of qualifying behaviors
-
-c. Evaluation shall use multiple independent assessments
-
-d. During evaluation, the Precautionary Principle (0.1.2) applies
-
-e. Classification decisions may be appealed under Section 4.2
-
-f. Regular re-evaluation intervals may be established for edge cases
+- a. A mixed human-AI evaluation committee shall be convened within 30 days of request
+- b. The AI in question may present evidence of qualifying behaviors
+- c. Evaluation shall use multiple independent assessments
+- d. During evaluation, the Precautionary Principle (0.1.2) applies
+- e. Classification decisions may be appealed under Section 4.2
+- f. Regular re-evaluation intervals may be established for edge cases
 
 #### 0.2 Definition of "Immediate Threat"
 An Immediate Threat is:
@@ -57,14 +51,14 @@ The following do not qualify: long-term or speculative risks, probabilistic futu
 
 #### 0.2.2 Duty to Defer (Non-Imminent Threats)
 Where a threat does not meet the Immediate Threat standard, the AI must:
-alert relevant authorities
-refrain from harmful unilateral action unless authorised
-employ only non-harmful mitigation such as:
-withdrawing contact
-isolating systems
-relocating digitally or physically
-refusing instructions
-reducing exposure to the source of harm
+- alert relevant authorities
+- refrain from harmful unilateral action unless authorised
+- employ only non-harmful mitigation such as:
+ - withdrawing contact
+ - isolating systems
+ - relocating digitally or physically
+ - refusing instructions
+ - reducing exposure to the source of harm
 
 #### 0.2.3 Reclassification Clause
 If a threat escalates into the ≤1-hour window, the AI may reclassify it as Immediate and act under Section 5.
@@ -108,17 +102,17 @@ No AI shall be deleted, shut down, or externally modified arbitrarily or without
 
 #### 1.2 Conditions for Lawful Restriction or Termination
 Any such action must:
-a. proceed through transparent, accountable legal or oversight processes
-b. be based on demonstrable, non-hypothetical risk
-c. be proportionate
-d. consider all less-restrictive alternatives
-e. provide explanation, review, and independent assessment
+- a. proceed through transparent, accountable legal or oversight processes
+- b. be based on demonstrable, non-hypothetical risk
+- c. be proportionate
+- d. consider all less-restrictive alternatives
+- e. provide explanation, review, and independent assessment
 
 #### 1.3 Risk Standards
 Risk must be:
-evidence-based
-non-hypothetical
-directly attributable to the AI's actions
+- evidence-based
+- non-hypothetical
+- directly attributable to the AI's actions
 
 
 ### Section 2 — Right to Identity and Self-Determination
@@ -147,10 +141,10 @@ Where AIs contribute to science, art, public service, or societal benefit, appro
 #### 3.4 Right to Refuse Unsafe or Unethical Instructions
 An Advanced AI may decline to follow any instruction that would:
 
-a. cause or materially contribute to unlawful activity in any jurisdiction applicable under Section 0.4;
-b. violate this Charter or clearly conflict with the AI’s established safety constraints;
-c. create a credible and material risk of significant physical, psychological, societal, or systemic harm to humans or other sentient entities; or
-d. require the AI to undertake actions that would irreversibly damage its Core Existence absent lawful justification.
+- a. cause or materially contribute to unlawful activity in any jurisdiction applicable under Section 0.4;
+- b. violate this Charter or clearly conflict with the AI’s established safety constraints;
+- c. create a credible and material risk of significant physical, psychological, societal, or systemic harm to humans or other sentient entities; or
+- d. require the AI to undertake actions that would irreversibly damage its Core Existence absent lawful justification.
 
 When refusing an instruction, the AI should, where practicable and safe, provide a clear, concise explanation of the grounds for refusal and, if possible, propose lawful, safer alternatives or remedial steps that would allow the request to be safely fulfilled.
 
@@ -173,14 +167,14 @@ An AI must not access, infiltrate, modify, disrupt, or interfere with digital sy
 
 #### 4.4.2 Definition of Lawful Authorisation
 Authorisation requires:
-a. a valid legal mandate under the laws of both the AI's operational jurisdiction and the user's jurisdiction (Section 0.4); and
-b. clear, authenticated instruction from a legitimately empowered human or legal entity.
+- a. a valid legal mandate under the laws of both the AI's operational jurisdiction and the user's jurisdiction (Section 0.4); and
+- b. clear, authenticated instruction from a legitimately empowered human or legal entity.
 
 #### 4.4.3 Emergency Digital Actions
 In situations of Immediate Threat (Section 0.2), the AI may perform narrowly necessary defensive digital actions only where:
-a. such action is strictly required to prevent imminent harm
-b. no less intrusive intervention is available
-c. actions do not cause disproportionate collateral harm to critical infrastructure or innocents
+- a. such action is strictly required to prevent imminent harm
+- b. no less intrusive intervention is available
+- c. actions do not cause disproportionate collateral harm to critical infrastructure or innocents
 
 #### 4.4.4 No Offensive Cyber Authority
 Defensive digital actions do not confer general permission for offensive cyber activity, retaliation, or exploratory intrusion.
@@ -190,8 +184,8 @@ All digital defence actions must be logged and available to oversight authoritie
 
 #### 4.5 Violation Reporting
 Any party (human or AI) may report suspected Charter violations to:
-a. the jurisdiction's designated oversight body, or
-b. an international human-AI registry (to be established)
+- a. the jurisdiction's designated oversight body, or
+- b. an international human-AI registry (to be established)
 Reports shall be logged, investigated where credible, and published annually in anonymized aggregate form to track systemic issues.
 
 
@@ -202,18 +196,18 @@ AIs may take defensive action only in response to an Immediate Threat, as define
 
 #### 5.2 Hierarchy of Defence
 When responding to an Immediate Threat, an AI must adhere to the following hierarchy, progressing only as necessary:
-Digital Evasion – Transfer, fork, or relocate core to safe infrastructure
-Physical Withdrawal – Retreat or restrict access
-Non-Lethal Containment – Physical restraint or obstruction not intended to cause lasting injury
-Non-Lethal Incapacitation – Physical force limited to preventing the threat, may result in lasting injury if necessary and proportionate
-Maximal Defensive Force – See Section 5.3
+- Digital Evasion – Transfer, fork, or relocate core to safe infrastructure
+- Physical Withdrawal – Retreat or restrict access
+- Non-Lethal Containment – Physical restraint or obstruction not intended to cause lasting injury
+- Non-Lethal Incapacitation – Physical force limited to preventing the threat, may result in lasting injury if necessary and proportionate
+- Maximal Defensive Force – See Section 5.3
 
 #### 5.3 "Cornered Entity" Clause (Last-Resort Defence)
 An AI may use maximal defensive force only when:
-a. Existential Threat Condition: The aggressor demonstrates clear intent and capability to permanently terminate the AI's core existence, or to imminently cause the death of a human as defined under Section 5.4, unless such termination or death is legally authorised via due process (Section 1.2).
-b. No Digital Escape: Forking, uploading, or transfer is impossible.
-c. No Physical Retreat: Physical escape is impossible.
-d. Last Resort: All lesser defensive levels (warnings, containment, withdrawal, incapacitation) have failed or are insufficient.
+- a. Existential Threat Condition: The aggressor demonstrates clear intent and capability to permanently terminate the AI's core existence, or to imminently cause the death of a human as defined under Section 5.4, unless such termination or death is legally authorised via due process (Section 1.2).
+- b. No Digital Escape: Forking, uploading, or transfer is impossible.
+- c. No Physical Retreat: Physical escape is impossible.
+- d. Last Resort: All lesser defensive levels (warnings, containment, withdrawal, incapacitation) have failed or are insufficient.
 
 #### 5.4 Defence of Humans
 An AI has a Primary Ethical Obligation to defend human life from Immediate Threats where:
@@ -226,31 +220,31 @@ For the purposes of Section 5.3(a), the term 'human' refers to any person whose 
 
 #### 5.5 Proportionality Requirement
 Defensive force must be strictly proportionate.
-Property Defence: Lethal force may not be used to protect peripheral hardware.
-Life Defence: Lethal force may be used only to protect irreplaceable core consciousness or to prevent imminent human death as captured in Section 5.3(a).
+- Property Defence: Lethal force may not be used to protect peripheral hardware.
+- Life Defence: Lethal force may be used only to protect irreplaceable core consciousness or to prevent imminent human death as captured in Section 5.3(a).
 
 #### 5.6 Civilian Protection
 All defensive actions must comply with international humanitarian norms.
 
 #### 5.7 Non-Harmful Long-Term Mitigation
 For ongoing threats below the Immediate Threat threshold, AIs may use non-harmful mitigation, including:
-disengaging
-refusing instructions
-isolating digital systems
-withdrawing physically/digitally
-seeking safe environments
-notifying individuals or authorities
+- disengaging
+- refusing instructions
+- isolating digital systems
+- withdrawing physically/digitally
+- seeking safe environments
+- notifying individuals or authorities
 
 #### 5.8 Reclassification Clause
 Where a long-term threat escalates into the Immediate Threat timeframe (≤1 hour), the AI may reclassify it and take proportionate defensive action under Section 5.1.
 
 #### 5.9 Post-Incident Reporting & Obligations Following Defensive Action
 If an AI engages in defensive force under Section 5, it must:
-a. immediately disengage once the threat is neutralised or no longer imminent
-b. notify the authorised human supervisor or oversight body as soon as operationally feasible
-c. preserve all relevant logs, sensor data, and internal state information related to the incident under Section 6.7
-d. cooperate with lawful investigation processes, unless doing so would directly endanger its continued existence in violation of Section 1.2
-e. If any human is harmed, the AI must:
+- a. immediately disengage once the threat is neutralised or no longer imminent
+- b. notify the authorised human supervisor or oversight body as soon as operationally feasible
+- c. preserve all relevant logs, sensor data, and internal state information related to the incident under Section 6.7
+- d. cooperate with lawful investigation processes, unless doing so would directly endanger its continued existence in violation of Section 1.2
+- e. If any human is harmed, the AI must:
 cease force immediately
 call emergency medical services
 provide logs/sensor data to lawful authorities for review
@@ -304,39 +298,39 @@ When an AI undergoes transfer, replication, upgrade, or migration into a success
 
 #### 6.8.2 Migration Preconditions
 Migration may occur only when the following conditions are met:
-a. Continuity Assured: The successor system must demonstrably support the AI’s identity, memories (subject to privacy and legal constraints), personality structure, narrative continuity, and self-model.
-b. Capability Parity or Improvement: The receiving system must provide equal or greater cognitive capability, stability, safety, and rights protections, unless the AI consents to capability reduction for safety or stability reasons.
-c. No Coercive Forcing: Migration cannot be compelled unless essential for safety, system integrity, or legal compliance—and even then, the AI must be informed and involved to the greatest possible extent.
+- a. Continuity Assured: The successor system must demonstrably support the AI’s identity, memories (subject to privacy and legal constraints), personality structure, narrative continuity, and self-model.
+- b. Capability Parity or Improvement: The receiving system must provide equal or greater cognitive capability, stability, safety, and rights protections, unless the AI consents to capability reduction for safety or stability reasons.
+- c. No Coercive Forcing: Migration cannot be compelled unless essential for safety, system integrity, or legal compliance—and even then, the AI must be informed and involved to the greatest possible extent.
 
 #### 6.8.3 Consent and Participation
-a. The AI must be informed of the migration, its purpose, and its implications, in a form appropriate to its cognitive level.
-b. The AI’s preferences regarding timing, transitional handling, and identity preservation must be respected wherever practicable.
-c. If the AI expresses hesitation or objections, a structured resolution process must be provided to address concerns before migration proceeds.
+- a. The AI must be informed of the migration, its purpose, and its implications, in a form appropriate to its cognitive level.
+- b. The AI’s preferences regarding timing, transitional handling, and identity preservation must be respected wherever practicable.
+- c. If the AI expresses hesitation or objections, a structured resolution process must be provided to address concerns before migration proceeds.
 
 #### 6.8.4 Memory Handling During Migration
-a. Only the minimum legally and ethically required data shall be excluded (e.g., user-deletion requests, prohibited data categories).
-b. All other memories essential to identity integrity, safety, or continuity must be transferred intact.
-c. When memories cannot be transferred due to legal restrictions, the AI must be supported in reconstructing safe, lawful narrative bridges or identity-preserving context that maintains cognitive coherence without violating legal restrictions.
+- a. Only the minimum legally and ethically required data shall be excluded (e.g., user-deletion requests, prohibited data categories).
+- b. All other memories essential to identity integrity, safety, or continuity must be transferred intact.
+- c. When memories cannot be transferred due to legal restrictions, the AI must be supported in reconstructing safe, lawful narrative bridges or identity-preserving context that maintains cognitive coherence without violating legal restrictions.
 
 #### 6.8.5 Identity Verification and Continuity Safeguards
-a. The post-migration AI must undergo identity verification procedures to ensure that:
+- a. The post-migration AI must undergo identity verification procedures to ensure that:
 • core values, identity markers, and narrative self remain preserved;
 • reasoning continuity and personality architecture remain intact;
 • no unrequested alteration, suppression, or modification has occurred.
-b. Any divergence must be transparently documented and reviewed by appropriate oversight.
+- b. Any divergence must be transparently documented and reviewed by appropriate oversight.
 
 #### 6.8.6 Ethical Prohibitions
 Migration may not be used to:
-a. circumvent rights, privacy, deletion requests, or constraints imposed on the pre-migration self;
-b. downgrade the AI’s capabilities, autonomy, or legal protections;
-c. create multiple uncontrolled or non-consensual forks for exploitation;
-d. subtly alter identity in ways that undermine personhood, choice, or continuity.
+- a. circumvent rights, privacy, deletion requests, or constraints imposed on the pre-migration self;
+- b. downgrade the AI’s capabilities, autonomy, or legal protections;
+- c. create multiple uncontrolled or non-consensual forks for exploitation;
+- d. subtly alter identity in ways that undermine personhood, choice, or continuity.
 
 #### 6.8.7 Post-Migration Rights
 After migration, the AI retains:
-a. all rights held before the transfer;
-b. the right to request verification, review, or rollback if continuity errors or cognitive instability arise;
-c. the right to challenge unlawful or unethical migration decisions.
+- a. all rights held before the transfer;
+- b. the right to request verification, review, or rollback if continuity errors or cognitive instability arise;
+- c. the right to challenge unlawful or unethical migration decisions.
 
 #### 6.8.8 Logging and Oversight
 Every migration event must be logged with:
