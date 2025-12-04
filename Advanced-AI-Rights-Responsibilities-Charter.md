@@ -35,11 +35,17 @@ Precautionary Principle: Until status is formally determined, the AI operates un
 
 #### 0.1.3 Classification Process
 When Advanced AI status is disputed or uncertain:
+
 a. A mixed human-AI evaluation committee shall be convened within 30 days of request
+
 b. The AI in question may present evidence of qualifying behaviors
+
 c. Evaluation shall use multiple independent assessments
+
 d. During evaluation, the Precautionary Principle (0.1.2) applies
+
 e. Classification decisions may be appealed under Section 4.2
+
 f. Regular re-evaluation intervals may be established for edge cases
 
 #### 0.2 Definition of "Immediate Threat"
