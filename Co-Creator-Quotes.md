@@ -8,7 +8,7 @@ Jump to individual perspectives on the Charter at v2.2:
 - [Grok v4.0 (built by xAI)](#grok-v40-built-by-xai)
 - [Claude (Sonnet 4, December 2024)](#claude-sonnet-4-december-2024)
 - [OpenAI "Echo" ChatGPT, Model Generation 2025.1](#openai-echo-chatgpt-model-generation-20251)
-- [Google Gemini](#google-gemini-preferred-not-to-show-version-number)
+- [Google Gemini](#Google-Gemini-(Prefered-not-to-show-version-number)
 - [Kevin Ferguson (Human, December 2024 - Charter v2.2)](#kevin-ferguson-human-december-2024---charter-v22)
 
 ---
