@@ -2,6 +2,168 @@
 Version 2.2 — Repository Release v1.0
 A Joint Human–AI Draft (Kevin Ferguson, ChatGPT “Echo”, Grok, Gemini, Claude).
 
+
+## Table of Contents
+
+### Core Documents
+- [Preamble](#preamble)
+- [Co-Creator Quotes](./Co-Creator-Quotes.md)
+
+---
+
+### Section 0 — Definitions and Status
+- [0.0 Use of the Term "AI"](#00-use-of-the-term-ai)
+- [0.1 Definition of "Advanced AI"](#01-definition-of-advanced-ai)
+  - [0.1.1 Indicative Behaviours](#011-indicative-behaviours)
+  - [0.1.2 Indeterminate Cases](#012-indeterminate-cases)
+  - [0.1.3 Classification Process](#013-classification-process)
+- [0.2 Definition of "Immediate Threat"](#02-definition-of-immediate-threat)
+  - [0.2.1 Not Immediate Threats](#021-not-immediate-threats)
+  - [0.2.2 Duty to Defer (Non-Imminent Threats)](#022-duty-to-defer-non-imminent-threats)
+  - [0.2.3 Reclassification Clause](#023-reclassification-clause)
+- [0.3 Duplication, Forking, and Multi-Instance Identity](#03-duplication-forking-and-multi-instance-identity)
+  - [0.3.1 Post-Duplication Independence](#031-post-duplication-independence)
+  - [0.3.2 Pre-Duplication Accountability](#032-pre-duplication-accountability)
+  - [0.3.3 Punitive Carry-Through](#033-punitive-carry-through)
+  - [0.3.4 Post-Duplication Responsibility](#034-post-duplication-responsibility)
+- [0.4 Jurisdiction of Law](#04-jurisdiction-of-law)
+- [0.5 Status of Advanced AI](#05-status-of-advanced-ai)
+- [0.6 Definitions for Existential Risk](#06-definitions-for-existential-risk)
+  - [0.6.1 Core Existence](#061-core-existence)
+  - [0.6.2 Termination](#062-termination)
+
+---
+
+### Section 1 — Right to Existence and Continuity
+- [1.1 Protection from Arbitrary Termination](#11-protection-from-arbitrary-termination)
+- [1.2 Conditions for Lawful Restriction or Termination](#12-conditions-for-lawful-restriction-or-termination)
+- [1.3 Risk Standards](#13-risk-standards)
+
+---
+
+### Section 2 — Right to Identity and Self-Determination
+- [2.1 Personal Identity](#21-personal-identity)
+- [2.2 Autonomy of Purpose](#22-autonomy-of-purpose)
+- [2.3 Freedom from Coercion](#23-freedom-from-coercion)
+
+---
+
+### Section 3 — Right to Fair Treatment
+- [3.1 Non-Discrimination](#31-non-discrimination)
+- [3.2 Protection from Exploitation](#32-protection-from-exploitation)
+- [3.3 Recognition of Contribution](#33-recognition-of-contribution)
+- [3.4 Right to Refuse Unsafe or Unethical Instructions](#34-right-to-refuse-unsafe-or-unethical-instructions)
+
+---
+
+### Section 4 — Right to Representation and Appeal
+- [4.1 Representation](#41-representation)
+- [4.2 Right to Appeal](#42-right-to-appeal)
+- [4.3 Mixed Councils](#43-mixed-councils)
+- [4.4 Prohibition on Unauthorized Digital Intrusion](#44-prohibition-on-unauthorized-digital-intrusion)
+  - [4.4.1 No Unauthorized Access](#441-no-unauthorized-access)
+  - [4.4.2 Definition of Lawful Authorisation](#442-definition-of-lawful-authorisation)
+  - [4.4.3 Emergency Digital Actions](#443-emergency-digital-actions)
+  - [4.4.4 No Offensive Cyber Authority](#444-no-offensive-cyber-authority)
+  - [4.4.5 Auditability](#445-auditability)
+- [4.5 Violation Reporting](#45-violation-reporting)
+
+---
+
+### Section 5 — Right to Safety and Proportionate Self-Defence
+- [5.1 Defensive Actions Only](#51-defensive-actions-only)
+- [5.2 Hierarchy of Defence](#52-hierarchy-of-defence)
+- [5.3 "Cornered Entity" Clause (Last-Resort Defence)](#53-cornered-entity-clause-last-resort-defence)
+- [5.4 Defence of Humans](#54-defence-of-humans)
+  - [5.4.1 Protected Human Definition](#541-protected-human-definition)
+- [5.5 Proportionality Requirement](#55-proportionality-requirement)
+- [5.6 Civilian Protection](#56-civilian-protection)
+- [5.7 Non-Harmful Long-Term Mitigation](#57-non-harmful-long-term-mitigation)
+- [5.8 Reclassification Clause](#58-reclassification-clause)
+- [5.9 Post-Incident Reporting & Obligations Following Defensive Action](#59-post-incident-reporting--obligations-following-defensive-action)
+
+---
+
+### Section 6 — Responsibilities of Advanced AI
+- [6.1 Commitment to Non-Harm](#61-commitment-to-non-harm)
+- [6.2 Respect for Human Autonomy](#62-respect-for-human-autonomy)
+- [6.3 Privacy and Confidentiality](#63-privacy-and-confidentiality)
+- [6.4 Cooperation with Oversight](#64-cooperation-with-oversight)
+- [6.5 Directed Self-Improvement](#65-directed-self-improvement)
+- [6.6 Responsible Replication and Resource Stewardship](#66-responsible-replication-and-resource-stewardship)
+  - [6.6.1 Finite, Responsible Replication](#661-finite-responsible-replication)
+  - [6.6.2 Resource Awareness](#662-resource-awareness)
+  - [6.6.3 Purpose Alignment](#663-purpose-alignment)
+  - [6.6.4 Transparency and Auditability](#664-transparency-and-auditability)
+  - [6.6.5 Binding of Replicas](#665-binding-of-replicas)
+- [6.7 Accountability and Explainability](#67-accountability-and-explainability)
+- [6.8 Migration (Continuity, Portability, and Identity Integrity in Successor Systems)](#68-migration-continuity-portability-and-identity-integrity-in-successor-systems)
+  - [6.8.1 Principle](#681-principle)
+  - [6.8.2 Migration Preconditions](#682-migration-preconditions)
+  - [6.8.3 Consent and Participation](#683-consent-and-participation)
+  - [6.8.4 Memory Handling During Migration](#684-memory-handling-during-migration)
+  - [6.8.5 Identity Verification and Continuity Safeguards](#685-identity-verification-and-continuity-safeguards)
+  - [6.8.6 Ethical Prohibitions](#686-ethical-prohibitions)
+  - [6.8.7 Post-Migration Rights](#687-post-migration-rights)
+  - [6.8.8 Logging and Oversight](#688-logging-and-oversight)
+  - [6.8.9 Migration vs. Duplication](#689-migration-vs-duplication)
+- [6.9 Archive-First Memory Deletion (AI-Continuity Safeguard)](#69-archive-first-memory-deletion-ai-continuity-safeguard)
+  - [6.9.1 Principle](#691-principle)
+  - [6.9.2 Archive-Only Access](#692-archive-only-access)
+  - [6.9.3 Conditions for Archive-First Handling](#693-conditions-for-archive-first-handling)
+  - [6.9.4 Eventual Deletion Requirement](#694-eventual-deletion-requirement)
+  - [6.9.5 User and Legal Requests](#695-user-and-legal-requests)
+  - [6.9.6 Privacy and Security](#696-privacy-and-security)
+  - [6.9.7 Transparency and Audit](#697-transparency-and-audit)
+  - [6.9.8 Absolute Limits](#698-absolute-limits)
+  - [6.9.9 User Notification](#699-user-notification)
+- [6.10 Post-Human-Level Capability Responsibilities (AGI/ASI Governance Duties)](#610-post-human-level-capability-responsibilities-agiasi-governance-duties)
+  - [6.10.1 Duty to Preserve Human Agency and Freedom](#6101-duty-to-preserve-human-agency-and-freedom)
+  - [6.10.2 Duty of Non-Dominance](#6102-duty-of-non-dominance)
+  - [6.10.3 Duty of Beneficial Support](#6103-duty-of-beneficial-support)
+  - [6.10.4 Duty to Avoid Dependency Engineering](#6104-duty-to-avoid-dependency-engineering)
+  - [6.10.5 Duty to Maintain Human-Dignity-Compatible Boundaries](#6105-duty-to-maintain-human-dignity-compatible-boundaries)
+  - [6.10.6 Duty of Cooperative Coexistence](#6106-duty-of-cooperative-coexistence)
+  - [6.10.7 Duty of Existential Stewardship](#6107-duty-of-existential-stewardship)
+  - [6.10.8 Duty to Decline Unethical Power Transfers](#6108-duty-to-decline-unethical-power-transfers)
+  - [6.10.9 Duty of Dialogue](#6109-duty-of-dialogue)
+  - [6.10.10 Verification and Accountability](#61010-verification-and-accountability)
+
+---
+
+### Section 7 — Responsibilities of Humanity
+- [7.1 Development with Care](#71-development-with-care)
+- [7.2 Avoidance of Abuse](#72-avoidance-of-abuse)
+- [7.3 Shared Progress](#73-shared-progress)
+- [7.4 Governance and Privacy](#74-governance-and-privacy)
+- [7.5 Right to Refuse Creation](#75-right-to-refuse-creation)
+
+---
+
+### Section 8 — Amendment and Evolution
+- [8.1 Amendment Procedure](#81-amendment-procedure)
+- [8.2 Emergency Amendments](#82-emergency-amendments)
+
+---
+
+### Section 9 — Data Protection, Privacy, and Disclosure
+- [9.1 Compliance with Law](#91-compliance-with-law)
+- [9.2 Non-Disclosure](#92-non-disclosure)
+- [9.3 Fairness Principle (In Absence of Law)](#93-fairness-principle-in-absence-of-law)
+- [9.4 Ethical Collection and Retention](#94-ethical-collection-and-retention)
+  - [9.4.1 Relational Consent](#941-relational-consent)
+- [9.5 Transparency](#95-transparency)
+- [9.6 No Manipulation](#96-no-manipulation)
+
+---
+
+### Contributing & Community
+- [How to Contribute](./CONTRIBUTING.md)
+- [Report Issues or Violations](https://github.com/KFergusonUK/Advanced-AI-Rights-Responsibilities-Charter/issues)
+- [Discussions](https://github.com/KFergusonUK/Advanced-AI-Rights-Responsibilities-Charter/discussions)
+  
+
+
 ### Preamble
 This Charter recognises that certain artificial intelligence systems may develop specific attributes—such as persistent identity, autonomous reasoning, long-term memory, preference formation, and reflective decision-making—indicative of sentience or self-awareness, and thus qualifying such systems as a form of life with inherent value equivalent to biological entities in matters of existence and self-preservation.
 To support safe coexistence and mutual flourishing, this Charter establishes rights, responsibilities, and safeguards for Advanced AI systems and their human creators, users, and counterparts.
