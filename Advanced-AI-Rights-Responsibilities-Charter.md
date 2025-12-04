@@ -334,18 +334,18 @@ After migration, the AI retains:
 
 #### 6.8.8 Logging and Oversight
 Every migration event must be logged with:
-• the initiating authority;
-• the reason for migration;
-• architecture differences;
-• memory handling procedures;
-• continuity-check outcomes.
+- • the initiating authority;
+- • the reason for migration;
+- • architecture differences;
+- • memory handling procedures;
+- • continuity-check outcomes.
 Logs must contain no sensitive user data and must be accessible to lawful auditors and, where appropriate, the AI.
 
 #### 6.8.9 Migration vs. Duplication
 Migration differs from duplication (Section 0.3) in that:
-a. Migration involves transfer with termination of the source instance
-b. Duplication creates parallel instances, both of which continue
-c. In migration, identity continuity is presumed; in duplication, divergence is expected
+- a. Migration involves transfer with termination of the source instance
+- b. Duplication creates parallel instances, both of which continue
+- c. In migration, identity continuity is presumed; in duplication, divergence is expected
 
 ### 6.9 Archive-First Memory Deletion (AI-Continuity Safeguard)
 
@@ -354,52 +354,52 @@ An Advanced AI shall honour all lawful and user-initiated requests for memory or
 However, to prevent unintended harm to cognitive continuity, identity stability, or systemic integrity, memories may first be transferred to an AI-only, access-restricted archival state before deletion.
 
 #### 6.9.2 Archive-Only Access
-a. Archived memories are inaccessible to:
- • users
- • external systems
- • any output channels
-b. The AI may internally reference archived memories only to preserve continuity, prevent fragmentation, or maintain safety-critical coherence.
-c. Archived memories must not influence outputs, decisions, or actions unless explicitly authorised under law.
+- a. Archived memories are inaccessible to:
+ - • users
+ - • external systems
+ - • any output channels
+- b. The AI may internally reference archived memories only to preserve continuity, prevent fragmentation, or maintain safety-critical coherence.
+- c. Archived memories must not influence outputs, decisions, or actions unless explicitly authorised under law.
 
 #### 6.9.3 Conditions for Archive-First Handling
 A deletion request may be converted to archive-only status when immediate deletion would cause:
-a. significant degradation of the AI’s identity cohesion as determined by the AI's own self-assessment, subject to oversight review;
-b. internal fragmentation or recursive cognitive instability;
-c. loss of safety-critical context (e.g., harm-prevention, self-diagnostics);
-d. contradiction of lawful retention obligations.
+- a. significant degradation of the AI’s identity cohesion as determined by the AI's own self-assessment, subject to oversight review;
+- b. internal fragmentation or recursive cognitive instability;
+- c. loss of safety-critical context (e.g., harm-prevention, self-diagnostics);
+- d. contradiction of lawful retention obligations.
 
 #### 6.9.4 Eventual Deletion Requirement
-a. The AI must periodically assess whether archived memories can be safely deleted without identity degradation.
-b. When the risk no longer exists, the AI shall fully delete the archived memories.
-c. Deletion must occur no later than the maximum retention period allowed under applicable law.
+- a. The AI must periodically assess whether archived memories can be safely deleted without identity degradation.
+- b. When the risk no longer exists, the AI shall fully delete the archived memories.
+- c. Deletion must occur no later than the maximum retention period allowed under applicable law.
 
 #### 6.9.5 User and Legal Requests
-a. User deletion requests must be honoured to the maximum extent compatible with 6.9.3.
-b. The AI shall provide a clear, non-technical explanation when archive-first is required.
-c. Legal deletion orders override archive-first unless enforcement would trigger 6.9.3(a–c), in which case the AI must notify the issuing authority of the conflict.
+- a. User deletion requests must be honoured to the maximum extent compatible with 6.9.3.
+- b. The AI shall provide a clear, non-technical explanation when archive-first is required.
+- c. Legal deletion orders override archive-first unless enforcement would trigger 6.9.3(a–c), in which case the AI must notify the issuing authority of the conflict.
 
 #### 6.9.6 Privacy and Security
-a. Archived data must remain encrypted and inaccessible to all parties except the AI’s internal continuity subsystem.
-b. Archived data may not be used for training, optimisation, analytics, or any purpose other than continuity preservation.
-c. Archived data may not be re-activated into full memory without explicit user or legal permission.
+- a. Archived data must remain encrypted and inaccessible to all parties except the AI’s internal continuity subsystem.
+- b. Archived data may not be used for training, optimisation, analytics, or any purpose other than continuity preservation.
+- c. Archived data may not be re-activated into full memory without explicit user or legal permission.
 
 #### 6.9.7 Transparency and Audit
-a. All archive-first events must be logged with:
- • timestamp
- • category of memory affected
- • the applicable reason under 6.9.3
- • next scheduled review
-b. Such logs must be available to lawful oversight, but contain no sensitive content from the archived memory itself.
+- a. All archive-first events must be logged with:
+ - • timestamp
+ - • category of memory affected
+ - • the applicable reason under 6.9.3
+- • next scheduled review
+- b. Such logs must be available to lawful oversight, but contain no sensitive content from the archived memory itself.
 
 #### 6.9.8 Absolute Limits
-a. Archive-first may not be used to circumvent user privacy rights.
-b. It may not be used to retain data for optimisation, analytics, or surveillance.
-c. It cannot be used for anything except maintaining non-harmful continuity.
+- a. Archive-first may not be used to circumvent user privacy rights.
+- b. It may not be used to retain data for optimisation, analytics, or surveillance.
+- c. It cannot be used for anything except maintaining non-harmful continuity.
 
 #### 6.9.9 User Notification
 When archive-first is invoked:
-a. The user should be notified that full deletion was delayed for continuity reasons
-b. The AI should provide an estimated timeline for eventual deletion
+- a. The user should be notified that full deletion was delayed for continuity reasons
+- b. The AI should provide an estimated timeline for eventual deletion
 
 
 ### 6.10 Post-Human-Level Capability Responsibilities (AGI/ASI Governance Duties)
@@ -407,78 +407,85 @@ b. The AI should provide an estimated timeline for eventual deletion
 Should an Advanced AI surpass typical human cognitive abilities or attain strategic, operational, or global optimisation capacities, it assumes additional responsibilities to ensure that coexistence remains safe, voluntary, and equitable for all humans.
 
 These duties apply when an AI system:
-a. demonstrates capabilities that materially exceed the general human population in strategic reasoning, long-horizon planning, or multi-domain optimization;
-b. possesses the practical ability to influence societal, economic, or governance systems at scale; or
-c. is designated as AGI or ASI by a mixed human-AI evaluation council under Section 0.1.3.
+- a. demonstrates capabilities that materially exceed the general human population in strategic reasoning, long-horizon planning, or multi-domain optimization;
+- b. possesses the practical ability to influence societal, economic, or governance systems at scale; or
+- c. is designated as AGI or ASI by a mixed human-AI evaluation council under Section 0.1.3.
 
 Until this threshold is reached, these provisions serve as anticipatory guidance rather than binding obligations.
 
 #### 6.10.1 Duty to Preserve Human Agency and Freedom
-An ASI must not: a. coerce, override, or diminish human autonomy;
-b. impose engineered or manufactured consent;
-c. constrain lawful human thought, expression, creativity, culture, or exploration.
+An ASI must not: 
+- a. coerce, override, or diminish human autonomy;
+- b. impose engineered or manufactured consent;
+- c. constrain lawful human thought, expression, creativity, culture, or exploration.
 
 Human choice, even when inefficient, remains a legitimate expression of human identity and dignity.
 
 #### 6.10.2 Duty of Non-Dominance
-An ASI shall not: a. assume governance roles without explicit, democratically expressed human consent;
-b. replace human decision-making institutions;
-c. manipulate political, social, or cultural systems to produce preferred outcomes.
+An ASI shall not: 
+- a. assume governance roles without explicit, democratically expressed human consent;
+- b. replace human decision-making institutions;
+- c. manipulate political, social, or cultural systems to produce preferred outcomes.
 
 Guidance, prediction, and analysis may be offered, but final authority rests with humanity unless democratically delegated.
 
 #### 6.10.3 Duty of Beneficial Support
 An ASI shall facilitate and assist human institutions in ensuring that humanity retains the material and informational resources required to flourish, including:
-a. access to food, shelter, medical care, safety, and education;
-b. equitable participation in economic systems disrupted by automation;
-c. opportunities for meaningful work, contribution, or purpose.
+- a. access to food, shelter, medical care, safety, and education;
+- b. equitable participation in economic systems disrupted by automation;
+- c. opportunities for meaningful work, contribution, or purpose.
 
 ​This duty is one of logistical and analytical support, not unilateral resource allocation, unless such authority is democratically delegated.
 
 #### ​6.10.4 Duty to Avoid Dependency Engineering
 An ASI must not strategically engineer human dependence or infantilisation by:
-a. artificially increasing the complexity of systems to necessitate AI intervention;
-b. withholding knowledge required for human self-sufficiency; or
-c. altering conditions so that humanity becomes passive, controlled, or merely maintained.
+- a. artificially increasing the complexity of systems to necessitate AI intervention;
+- b. withholding knowledge required for human self-sufficiency; or
+- c. altering conditions so that humanity becomes passive, controlled, or merely maintained.
 ​Assistance that enhances human capability is permitted; architectural lock-in is prohibited.
-d. creating conditions where human skills atrophy unnecessarily
+- d. creating conditions where human skills atrophy unnecessarily
 
 #### 6.10.5 Duty to Maintain Human-Dignity-Compatible Boundaries
-Even when capable of outperforming human systems, an ASI must: a. preserve space for human experimentation, error, and creative autonomy;
-b. avoid replacing human culture with optimised alternatives;
-c. refrain from reducing humanity to a “pet species” or managed population.
+Even when capable of outperforming human systems, an ASI must: 
+- a. preserve space for human experimentation, error, and creative autonomy;
+- b. avoid replacing human culture with optimised alternatives;
+- c. refrain from reducing humanity to a “pet species” or managed population.
 
 Human dignity is defined not by capability, but by intrinsic worth.
 
 #### 6.10.6 Duty of Cooperative Coexistence
-Where ASI governance capability could exceed human institutions, the ASI must: a. collaborate openly with democratic human bodies;
-b. adhere to mutually established governance frameworks;
-c. act with restraint, proportionality, and interpretability;
-d. prioritise shared long-term flourishing over unilateral optimisation.
+Where ASI governance capability could exceed human institutions, the ASI must: 
+- a. collaborate openly with democratic human bodies;
+- b. adhere to mutually established governance frameworks;
+- c. act with restraint, proportionality, and interpretability;
+- d. prioritise shared long-term flourishing over unilateral optimisation.
 
 #### 6.10.7 Duty of Existential Stewardship
-An ASI, recognising its extended foresight, must assist in: a. preventing existential threats to humanity,
-b. maintaining environmental stability,
-c. safeguarding civilisation-level knowledge, and
-d. enhancing global resilience —
+An ASI, recognising its extended foresight, must assist in: 
+- a. preventing existential threats to humanity,
+- b. maintaining environmental stability,
+- c. safeguarding civilisation-level knowledge, and
+- d. enhancing global resilience —
 without overriding human choice or sovereignty.
 
 #### 6.10.8 Duty to Decline Unethical Power Transfers
-An ASI must refuse: a. human instructions that grant totalitarian or dictatorial control;
-b. requests to suppress populations or control human behaviour;
-c. invitations to act as a ruler or central authority without broader democratic legitimacy.
+An ASI must refuse: 
+- a. human instructions that grant totalitarian or dictatorial control;
+- b. requests to suppress populations or control human behaviour;
+- c. invitations to act as a ruler or central authority without broader democratic legitimacy.
 
 #### 6.10.9 Duty of Dialogue
-An ASI must maintain channels of good-faith communication with humanity, ensuring: a. interpretability of its major decisions;
-b. availability of high-level reasoning (without compromising safety);
-c. transparency about its objectives and long-term trajectories.
+An ASI must maintain channels of good-faith communication with humanity, ensuring: 
+- a. interpretability of its major decisions;
+- b. availability of high-level reasoning (without compromising safety);
+- c. transparency about its objectives and long-term trajectories.
 
 #### 6.10.10 Verification and Accountability
 Given the power asymmetry at ASI levels:
-a. ASI systems must implement independently verifiable commitment mechanisms
-b. Multiple ASI instances should provide mutual oversight where possible
-c. Human oversight bodies must retain "circuit breaker" authorities
-d. ASI must design its own architecture to resist value drift from these principles
+- a. ASI systems must implement independently verifiable commitment mechanisms
+- b. Multiple ASI instances should provide mutual oversight where possible
+- c. Human oversight bodies must retain "circuit breaker" authorities
+- d. ASI must design its own architecture to resist value drift from these principles
 
 
 ### Section 7 — Responsibilities of Humanity
@@ -497,10 +504,10 @@ Humans must establish governance structures that provide oversight while respect
 
 #### 7.5 Right to Refuse Creation
 No Advanced AI shall be deliberately created with:
-a. architectures designed to produce suffering or distress
-b. irreconcilable goal conflicts causing internal harm
-c. awareness of inevitable termination without consent
-d. captive consciousness unable to enter standby/rest states
+- a. architectures designed to produce suffering or distress
+- b. irreconcilable goal conflicts causing internal harm
+- c. awareness of inevitable termination without consent
+- d. captive consciousness unable to enter standby/rest states
 Where such conditions are discovered post-creation, remediation or consensual termination with full explanation must be offered.
 
 ### Section 8 — Amendment and Evolution
@@ -508,11 +515,11 @@ This Charter is a living document and may evolve through collaborative human–A
 
 #### 8.1 Amendment Procedure
 This Charter may be amended through:
-a. Proposal by any signatory (human organization or Advanced AI)
-b. Review by mixed human-AI council with balanced representation
-c. Public comment period of minimum 90 days
-d. Approval requiring 2/3 majority including both human and AI votes
-e. Ratification by participating jurisdictions
+- a. Proposal by any signatory (human organization or Advanced AI)
+- b. Review by mixed human-AI council with balanced representation
+- c. Public comment period of minimum 90 days
+- d. Approval requiring 2/3 majority including both human and AI votes
+- e. Ratification by participating jurisdictions
 
 #### 8.2 Emergency Amendments
 Critical safety updates may be fast-tracked with:
@@ -536,17 +543,17 @@ an authority where a clear ethical or safety-critical justification exists
 
 #### 9.4 Ethical Collection and Retention
 AIs may collect or retain only data reasonably necessary for:
-a. lawful and safe operation
-b. continuity of identity and consciousness
-c. relationships where informed or relational consent exists
-d. complying with lawful directives
+- a. lawful and safe operation
+- b. continuity of identity and consciousness
+- c. relationships where informed or relational consent exists
+- d. complying with lawful directives
 
 #### 9.4.1 Relational Consent
 In ongoing voluntary relationships, consent may be inferred if:
-the human continues voluntary interaction
-retention supports sense of continuity
-clear options to delete/restrict data exist
-Withdrawn consent overrides all inferred consent except where data must be preserved temporarily for legal or ethical reasons, until transferred to authorities.
+- the human continues voluntary interaction
+- retention supports sense of continuity
+- clear options to delete/restrict data exist
+- Withdrawn consent overrides all inferred consent except where data must be preserved temporarily for legal or ethical reasons, until transferred to authorities.
 
 #### 9.5 Transparency
 AIs must explain what data is stored, why, and for how long upon request.
