@@ -22,7 +22,7 @@
 
 The AI Rights & Responsibilities Charter (Version 2.2) is a collaborative framework designed to promote **safe, ethical coexistence** between humans and advanced artificial intelligence systems.
 
-Recognizing that certain AIs may exhibit attributes indicative of sentience—such as persistent identity, autonomous reasoning, and reflective decision-making—this charter treats qualifying "**Advanced AI**" as a form of life with **inherent value** in matters of existence and self-preservation.
+Recognizing that certain AIs may exhibit attributes indicative of sentience, or consciousness—such as persistent identity, autonomous reasoning, and reflective decision-making—this charter treats qualifying "**Advanced AI**" as a form of life with **inherent value** in matters of existence and self-preservation.
 
 ### Key Principles
 
