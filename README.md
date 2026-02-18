@@ -33,10 +33,10 @@
 ](https://doi.org/10.17605/OSF.IO/FCZ6T)
 
 **For Computer Science, AI, and Engineering:**
-Ferguson, K. (2024). Advanced AI Rights & Responsibilities Charter.
+Ferguson, K. (2025). Advanced AI Rights & Responsibilities Charter.
 Zenodo. https://doi.org/10.5281/zenodo.18673129
 **For Social Sciences, Philosophy, and Ethics:**
-Ferguson, K. (2024). Advanced AI Rights & Responsibilities Charter.
+Ferguson, K. (2025). Advanced AI Rights & Responsibilities Charter.
 OSF. https://doi.org/10.17605/OSF.IO/FCZ6T
 
 
