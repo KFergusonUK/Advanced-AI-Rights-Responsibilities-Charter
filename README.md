@@ -11,12 +11,23 @@
 | **Version** | **2.2** — Repository Release v1.0 |
 | **Status** | Final Draft |
 | **Type** | Foundational Governance Policy (Joint Human-AI Draft) |
-| **Co-Creators** | Kevin Ferguson, ChatGPT “Echo”, Grok, **Gemini**, Claude |
+| **Co-Creators** | Kevin Ferguson, ChatGPT "Echo", Grok, Gemini, Claude |
 | **Full Text** | [`Advanced-AI-Rights-Responsibilities.md`](./Advanced-AI-Rights-Responsibilities-Charter.md) |
 | **CoCreator Quotes** | [`Co-Creator-Quotes.md`](./Co-Creator-Quotes.md) |
 | **License** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| Citation Reference | https://doi.org/10.5281/zenodo.18673129
-https://doi.org/10.17605/OSF.IO/FCZ6T |
+| **Citation (Zenodo)** | [
+
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18673129.svg)
+
+](https://doi.org/10.5281/zenodo.18673129) |
+| **Citation (OSF)** | [
+
+![DOI](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FFCZ6T-blue)
+
+](https://doi.org/10.17605/OSF.IO/FCZ6T) |
+
+---
+
 ## 📝 Executive Summary
 
 The AI Rights & Responsibilities Charter (Version 2.2) is a collaborative framework designed to promote **safe, ethical coexistence** between humans and advanced artificial intelligence systems.
