@@ -25,7 +25,6 @@
 ![DOI](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FFCZ6T-blue)
 
 ](https://doi.org/10.17605/OSF.IO/FCZ6T) |
-
 ---
 
 ## 📝 Executive Summary
