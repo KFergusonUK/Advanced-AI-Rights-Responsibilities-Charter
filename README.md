@@ -21,16 +21,14 @@
 
 ## 📚 Citation
 
-[
 
 ![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18673129.svg)
 
-](https://doi.org/10.5281/zenodo.18673129)
-[
+(https://doi.org/10.5281/zenodo.18673129)
 
 ![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FFCZ6T-blue)
 
-](https://doi.org/10.17605/OSF.IO/FCZ6T)
+(https://doi.org/10.17605/OSF.IO/FCZ6T)
 
 **For Computer Science, AI, and Engineering:**
 Ferguson, K. (2025). Advanced AI Rights & Responsibilities Charter.
