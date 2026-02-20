@@ -16,6 +16,7 @@
 | **CoCreator Quotes** | [`Co-Creator-Quotes.md`](./Co-Creator-Quotes.md) |
 | **License** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **Citation** | [Zenodo DOI](https://doi.org/10.5281/zenodo.18673129) • [OSF DOI](https://doi.org/10.17605/OSF.IO/FCZ6T) |
+• [PhilArchive/Papers](https://philpapers.org/rec/FERAAR-4) |
 
 ---
 
